@@ -1,0 +1,8 @@
+Curso: Diseño de Interfaces Web
+Alumno: Daniel Cuadros Gaona
+Ejercicio: 4-7 (Landing Page Flexbox)
+Fecha: 12/02/2026
+
+Archivos incluidos:
+- index.html
+- style.css
